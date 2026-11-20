@@ -1,0 +1,18 @@
+{
+ "flows": [
+  {"channel": "YouTube", "headline": "Tunnista soittaja heti, kun puhelin soi", "paywall_opens_on": "your incoming-call photo, the yearly plan with 14 days free", "note": "caller ID switched on in iPhone settings, then a sample call identified, before any price"},
+  {"channel": "Meta", "headline": "Kaksi viikkoa Caller Prota ilmaiseksi", "paywall_opens_on": "the two free weeks as Tänään, Päivä 12, Päivä 14, the year selected at 3,75 €/kk", "note": "one free number search first; today this ad links to fonecta.fi/callerpro"},
+  {"channel": "Meta", "headline": "Tärkeä puhelu vai huijaus?", "paywall_opens_on": "the free-versus-Pro table and a five-star review", "note": "a number that calls a lot blocked, the call they wanted kept; today this ad links to a fonecta.fi article"}
+ ],
+ "prices": {"yearly": "44,99 €", "monthly": "4,49 €", "trial": "14 days", "source": "Finnish App Store listing (In-App Purchases); fonecta.fi/callerpro"},
+ "today": {"text": "the YouTube ad leads to an App Store page rated 2,0, and both Meta ads lead to fonecta.fi, a web shop and an article", "source": "audit_frames"},
+ "asks": ["Kuka sinulle useimmiten soittaa tuntemattomasta numerosta?", "Kenen puhelimeen otat Caller Pron?", "Minkä puhelun et halua missata?"],
+ "rebuild": "each ad opens the app on its own words, with a first identified call, search or block before the price and the phone number asked last",
+ "ideas": [
+  {"n": 1, "title": "Show an identified call before the price", "screen": "First win", "outcome": "CR +10–20%"},
+  {"n": 2, "title": "Keep each ad’s promise on the first screen", "screen": "Arrive", "outcome": "CR +5–10%"},
+  {"n": 3, "title": "Let one answer name the paywall", "screen": "Paywall", "outcome": "CR +5–10%"},
+  {"n": 4, "title": "Show the 14 free days, and 3,75 € a month", "screen": "Paywall", "outcome": "ARPU +5–15%"},
+  {"n": 5, "title": "Ask for the phone number last, with a way round the code", "screen": "Account", "outcome": "CR +3–8%"}
+ ]
+}
